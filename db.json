@@ -6,7 +6,7 @@
       "boardContent": "",
       "boardPW": "",
       "boardUser": "",
-    }
+    }]
      "comment": [
         {
           "id": "",
@@ -15,6 +15,6 @@
           "commentUser": ""
         }
       ]
-    }
-  ]
+    
+  
 }
